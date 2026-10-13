@@ -120,7 +120,3 @@ The project case studies use the README information supplied for this portfolio.
 - Kerala Ayurvedh is labelled pre-launch because its README lists outstanding security, privacy, operational, and release checks.
 - Reality AI's model and dataset details need to be cross-checked against its current repository and experiment artifacts before claims about final status or metrics are added.
 - The Voters Dashboard README supplied limited information; the visual library, automated testing, deployment, and data provenance are not guessed.
-
-## Publishing
-
-This is a static website and can be hosted on GitHub Pages or any static host. Before publishing, add your own portrait if desired, add the three requested project galleries, review internship wording, inspect certificate links and other external links, and check the privacy of anything visible in screenshots or datasets. Do not upload API keys, credentials, customer data, private payment proofs, or datasets containing personal information.
